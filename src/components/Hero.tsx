@@ -32,14 +32,14 @@ export function Hero() {
   <p className="text-2xl mb-8 text-blue-50">Creando momentos mágicos para tus celebraciones especiales</p>
   
   <a 
-    href="https://wa.me/523320221011?Hola%20bonito%20día,%20gracias%20por%20comunicarte%20con%20nosotros.%20¿Qué%20tema%20tendrá%20tu%20evento,%20en%20dónde%20y%20para%20cuándo%20lo%20necesitas?%20En%20un%20momento%20nos%20comunicamos%20contigo.
-." 
+   href="https://wa.me/523320221011?text=Hola%20bonito%20día,%20gracias%20por%20comunicarte%20con%20nosotros.%20¿Qué%20tema%20tendrá%20tu%20evento,%20en%20dónde%20y%20para%20cuándo%20lo%20necesitas?%20En%20un%20momento%20nos%20comunicamos%20contigo." target="_blank" rel="noopener noreferrer"
+
     target="_blank" 
     rel="noopener noreferrer"
     className="bg-gradient-to-r from-pink-500 to-blue-500 text-white px-8 py-3 rounded-full font-semibold hover:from-pink-600 hover:to-blue-600 transition duration-300 transform hover:scale-105"
   >
     ¡Cotiza Ahora!
-  </a>
+  </>
 </div>
 
     </header>
